@@ -5,6 +5,7 @@
 <h5>Header 5</h5>
 <h6>Header 6</h6>
 
+<h2>A Second Level Header</h2>
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
