@@ -6,18 +6,6 @@
 <h6>Header 6</h6>
 ------------------
 
-###Header 3
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote.
-
-<p>This is just a regular paragraph.</p>
-
-<p>The quick brown fox jumped over the lazy dog's back.</p>
-
 <h3>Header 3</h3>
 
 <blockquote>
