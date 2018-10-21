@@ -43,8 +43,17 @@ Or, if you prefer, __use two underscores instead__.
 + Budapest
 + Stockholm
 
+**Create a list using HTML tags**
 <ul>
 <li>Vienna.</li>
 <li>Budapest.</li>
 <li>Stockholm.</li>
 </ul>
+
+**Create an ordered (numbered) list using HTML tags**
+<ol>
+<li>Vienna.</li>
+<li>Budapest.</li>
+<li>Stockholm.</li>
+</ol>
+    
