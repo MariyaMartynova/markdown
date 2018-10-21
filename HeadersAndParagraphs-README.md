@@ -1,9 +1,9 @@
-<h1>A First Level Header</h1> or #AFirst Level Header
-<h2>A Second Level Header</h2> or ##A Second Level Header
-<h3>Header 3</h3> or ###A Second Level Header
-####Header 4
-#####Header 5
-#####Header 6
+<h1>A First Level Header</h1>
+<h2>A Second Level Header</h2>
+<h3>Header 3</h3>
+<h4>Header 4</h4>
+<h5>Header 5</h5>
+<h6>Header 6</h6>
 
 > This is a blockquote.
 > 
