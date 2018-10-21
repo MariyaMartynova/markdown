@@ -28,17 +28,23 @@ Some of these words _are emphasized also_.
 Use two asterisks for **strong emphasis**.
 Or, if you prefer, __use two underscores instead__.
 
-##Create a list with asterisk markers
-*   Austria
-*   Hungary
+**Create a list with asterisk markers**
+*   Vienna
+*   Budapest
 *   Stockholm
 
-##Create a list with hypens markers
-- Austria
-- Hungary
+**Create a list with hypens markers**
+- Vienna
+- Budapest
 - Stockholm
 
-##Create a list with pluses markers
-+ Austria
-+ Hungary
+**Create a list with pluses markers**
++ Vienna
++ Budapest
 + Stockholm
+
+<ul>
+<li>Vienna.</li>
+<li>Budapest.</li>
+<li>Stockholm.</li>
+</ul>
