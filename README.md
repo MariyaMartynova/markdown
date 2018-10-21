@@ -4,7 +4,7 @@ Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you 
 
 <h1>A First Level Header</h1>
 <h2>A Second Level Header</h2>
-### Header 3
+<h3>Header 3</h3>
 
 > This is a blockquote.
 > 
@@ -28,3 +28,9 @@ dog's back.</p>
 
     <h2>This is an H2 in a blockquote</h2>
 </blockquote>
+
+Some of these words *are emphasized*.
+Some of these words _are emphasized also_.
+
+Use two asterisks for **strong emphasis**.
+Or, if you prefer, __use two underscores instead__.
